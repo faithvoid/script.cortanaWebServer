@@ -11,3 +11,4 @@ Simple but flexible HTTP/HTTPS hosting utility for XBMC4Xbox.
 
 ## Not Planned:
 - MySQL / PHP support (not possible)
+- Upload Support(?) (would involve using a fork like BaseHTTPServerWithUpload)
